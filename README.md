@@ -1,4 +1,4 @@
-# Loan-Status-Prediction
+# Loan-Status-Prediction using Machine Learning
 
 ## Overview
 This project aims to predict the loan status of applicants using various machine learning algorithms. By analyzing historical data, the project provides a predictive model that determines whether a loan will be approved or not. This can help financial institutions streamline their loan approval processes and manage risk more effectively.
